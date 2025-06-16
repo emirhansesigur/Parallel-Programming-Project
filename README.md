@@ -2,7 +2,7 @@
 
 Bu proje, verilen bir noktanın **konkav veya konveks bir poligonun içinde mi yoksa dışında mı olduğunu belirlemeyi** amaçlar. Bu temel geometrik problemi çözmek için hem **seri (tek iş parçacıklı)** hem de **paralel (çok iş parçacıklı)** algoritmalar kullanılmıştır. Uygulama sonunda, iki yaklaşımın doğruluk ve performans (çalışma süresi) açısından karşılaştırması yapılmış, paralel programlamanın hız avantajı analiz edilmiştir.
 
-Projeyi açıkladığım YouTube videosuna [buraya](emir.com) tıklayarak ulaşabilirsiniz.
+Projeyi açıkladığım YouTube videosuna [buraya](https://www.youtube.com/watch?v=gGL9bR2IA-Y) tıklayarak ulaşabilirsiniz.
 
 ---
 
